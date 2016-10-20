@@ -1,0 +1,6 @@
+D:\MYGITDATA\PushGitHubTest\PushGitHubTestPorject\PushGitHubTestPorject\bin\Debug\PushGitHubTestPorject.exe.config
+D:\MYGITDATA\PushGitHubTest\PushGitHubTestPorject\PushGitHubTestPorject\bin\Debug\PushGitHubTestPorject.exe
+D:\MYGITDATA\PushGitHubTest\PushGitHubTestPorject\PushGitHubTestPorject\bin\Debug\PushGitHubTestPorject.pdb
+D:\MYGITDATA\PushGitHubTest\PushGitHubTestPorject\PushGitHubTestPorject\obj\Debug\PushGitHubTestPorject.csprojResolveAssemblyReference.cache
+D:\MYGITDATA\PushGitHubTest\PushGitHubTestPorject\PushGitHubTestPorject\obj\Debug\PushGitHubTestPorject.exe
+D:\MYGITDATA\PushGitHubTest\PushGitHubTestPorject\PushGitHubTestPorject\obj\Debug\PushGitHubTestPorject.pdb
