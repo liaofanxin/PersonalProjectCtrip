@@ -1,0 +1,12 @@
+spring:
+    dubbo:
+            application:
+              name: springBootDubboTest
+            registry:
+              address: zookeeper://10.2.17.42:2181
+              group: scdev
+            protocol:
+              name: dubbo
+              port: 22888
+            packageName: com.ctrip.personal.springboot.dubbotest.service
+            scan: com.ctrip.personal.springboot.dubbotest.service
