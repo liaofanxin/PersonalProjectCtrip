@@ -20,10 +20,10 @@ public class App {
     public static void main(String[] args) {
 
         try {
-            EnumHelper enumEnumHelper=new EnumHelper();
-            Boolean hasEnum=enumEnumHelper.isContains(EmpTestEnum.class,100,"getCode");
-            System.out.println(Enum.valueOf(EmpTypeEnum.class,"1"));
-            //System.out.println(new Date().getTime());
+//            EnumHelper enumEnumHelper=new EnumHelper();
+//            Boolean hasEnum=enumEnumHelper.isContains(EmpTestEnum.class,100,"getCode");
+//            System.out.println(Enum.valueOf(EmpTypeEnum.class,"1"));
+//            //System.out.println(new Date().getTime());
         } catch (Exception ex) {
             System.out.println(ex.getMessage());
         }
